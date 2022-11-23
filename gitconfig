@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = bjorn.van.dijkman@vantage-ai.com
+	name = Bjorn van Dijkman
